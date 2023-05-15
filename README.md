@@ -31,4 +31,5 @@
 1. Создайте проект в GNS3, предварительно установив GNS3.
 ![Screenshot at 2023-05-15 20-45-06](https://github.com/Roman-Teterevlev/SYS-21_6-02/assets/132853752/66c3a7f1-eaa5-4290-b1d7-457c1173e04c)
 2. Создайте топологию, как на скрине. Для реализации используйте машину на базе QEMU. Можно дублировать, сделанную ранее.
-
+![Screenshot at 2023-05-16 00-36-18](https://github.com/Roman-Teterevlev/SYS-21_6-02/assets/132853752/bdd987e4-0d92-4145-a589-3a0111dad268)
+![Screenshot at 2023-05-16 00-36-43](https://github.com/Roman-Teterevlev/SYS-21_6-02/assets/132853752/e73fb075-1173-4e41-bc82-9ca71b9f7bf0)
