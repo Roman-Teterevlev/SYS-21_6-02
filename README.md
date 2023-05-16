@@ -23,6 +23,8 @@
 ![Screenshot at 2023-05-16 21-47-28](https://github.com/Roman-Teterevlev/SYS-21_6-02/assets/132853752/f157f641-e4ee-4661-8ac2-81998fd98c8a)
 ![Screenshot at 2023-05-16 21-53-08](https://github.com/Roman-Teterevlev/SYS-21_6-02/assets/132853752/c9af33f6-eec3-4fbb-8ff2-a78da1a55a18)
 ![Screenshot at 2023-05-16 22-40-52](https://github.com/Roman-Teterevlev/SYS-21_6-02/assets/132853752/9421aa58-32b8-4c23-ad29-244166fa825d)
+![Screenshot at 2023-05-16 23-07-42](https://github.com/Roman-Teterevlev/SYS-21_6-02/assets/132853752/f127af17-0db5-48f5-a8c2-f8bd010e52c8)
+![Screenshot at 2023-05-16 23-08-27](https://github.com/Roman-Teterevlev/SYS-21_6-02/assets/132853752/0e18941e-789a-4f51-9d6a-f3421b0ce7ab)
 ## Задание 4
 Выполните действия и приложите скриншоты по каждому этапу:
 1. Создайте проект в GNS3, предварительно установив GNS3.
