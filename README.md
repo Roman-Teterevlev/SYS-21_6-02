@@ -11,13 +11,9 @@
 ## Задание 2
 Выполните действия и приложите скриншоты по каждому этапу:
 1. Установите QEMU в зависимости от системы (в лекции рассматривались примеры).
-![Screenshot at 2023-05-16 00-47-38](https://github.com/Roman-Teterevlev/SYS-21_6-02/assets/132853752/581caa99-6c8d-4bed-b5a8-ebf1c2ecd367)
 2. Создайте виртуальную машину.
-![Screenshot at 2023-05-15 06-34-05](https://github.com/Roman-Teterevlev/SYS-21_6-02/assets/132853752/d408a2ae-a070-44e2-9d1e-980c198dde94) 
 3. Установите виртуальную машину.
-![Screenshot at 2023-05-15 06-43-20](https://github.com/Roman-Teterevlev/SYS-21_6-02/assets/132853752/0c3a4ae1-3f58-488e-9e10-782d08444c07)
-![Screenshot at 2023-05-15 06-43-38](https://github.com/Roman-Teterevlev/SYS-21_6-02/assets/132853752/5fb7e5da-71f5-411a-b27f-9f0c0db704c2)
-![Screenshot at 2023-05-15 06-44-34](https://github.com/Roman-Teterevlev/SYS-21_6-02/assets/132853752/f844d4e0-f160-46e8-be58-b3b8a8738e04)
+
 ## Задание 3
 Выполните действия и приложите скриншоты по каждому этапу:
 1. Установите KVM и библиотеку libvirt. Можете использовать GUI-версию из лекции.
